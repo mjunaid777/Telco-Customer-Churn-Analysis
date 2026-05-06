@@ -16,7 +16,7 @@ This project identifies at-risk customers for a telecommunications company and p
 *   **Business Impact:** Projected Net Profit of **₹3,98,500** by targeting high-risk customers.
 
 ## 🖥️ Dashboard Preview
-![Dashboard Screenshot](./Images/dashboard_screenshot.png)
+![Dashboard Screenshot](Images/Screenshot_Dashboard.png)
 
 ## 📂 How to Use
 1. Clone the repo.
